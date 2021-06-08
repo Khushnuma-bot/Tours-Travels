@@ -1,0 +1,7 @@
+[
+    {"name":"Kolkata","cost":"5k","days":"5 days"},
+    {"name":"Mumbai","cost":"10k","days":"7 days"},
+    {"name":"Kashmir","cost":"3k","days":"10 days"},
+    {"name":"Sikkim","cost":"11k","days":"8 days"},
+     {"name":"Delhi","cost":"15k","days":"11 days"}
+]
